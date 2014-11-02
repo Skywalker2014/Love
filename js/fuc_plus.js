@@ -27,7 +27,7 @@ function func_create_new_code(parent_ele , /*optional*/ div_list , display) {
    	//create_space(new_code);
       //create_placeholder(new_code);  
 //1
-   	var str = "  /*Encountered very kind of you";
+   	var str = "  /*Forgive me for needing you in my life";
    	var type = "comments";
    	create_line(new_code, str, div_list, type); 
       create_br(new_code);
@@ -87,7 +87,7 @@ function func_create_new_code(parent_ele , /*optional*/ div_list , display) {
       create_br(new_code);
 
 //5
-      str = "  // since then,I miss you ereryday";
+      str = "  // since then,I miss you everyday";
       type = "comments";
       create_line(new_code, str, div_list, type); 
       create_br(new_code);
